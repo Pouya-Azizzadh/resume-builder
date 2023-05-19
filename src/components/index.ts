@@ -1,0 +1,1 @@
+export {default as ResumePaper} from "./resume-template/ResumePaper"

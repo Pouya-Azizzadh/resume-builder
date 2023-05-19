@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer {
+  .flex-center {
+    @apply flex justify-center items-center;
+  }
+
+  .item {
+    @apply pt-4 text-gray flex items-center;
+  }
+ 
+}
+.grid_full_line{
+  grid-column:100%;
+}
